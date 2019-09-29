@@ -1,0 +1,126 @@
+{
+  "configVersion": 1,
+  "timestamp": 1569734206173,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/index.html",
+        "/main-es2015.7b8548e7f6f3f15b4b36.js",
+        "/main-es5.7b8548e7f6f3f15b4b36.js",
+        "/polyfills-es2015.09c2ff5e82f81b9f620c.js",
+        "/polyfills-es5.80b8a42bfc13245b0264.js",
+        "/runtime-es2015.b948044840398824f16e.js",
+        "/runtime-es5.b948044840398824f16e.js",
+        "/styles.d69164d01ea0441a70ff.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/apartment.png",
+        "/assets/building.jpg",
+        "/assets/building.png",
+        "/assets/favicon.ico",
+        "/assets/image/Bitmap.png",
+        "/assets/image/Bitmap.svg",
+        "/assets/image/add-plus-button.svg",
+        "/assets/image/admin.png",
+        "/assets/image/analysis.png",
+        "/assets/image/analysis.svg",
+        "/assets/image/apartment.png",
+        "/assets/image/apartment.svg",
+        "/assets/image/apartment_logo-white.png",
+        "/assets/image/apartment_logo.png",
+        "/assets/image/building.jpg",
+        "/assets/image/building.png",
+        "/assets/image/building1.png",
+        "/assets/image/down-arrow-gray.svg",
+        "/assets/image/down-arrow.svg",
+        "/assets/image/favicon-apartment-white-icon.png",
+        "/assets/image/favicon-icon.png",
+        "/assets/image/filter.png",
+        "/assets/image/icon.png",
+        "/assets/image/icon.svg",
+        "/assets/image/img1.jpg",
+        "/assets/image/img2.jpg",
+        "/assets/image/img3.jpg",
+        "/assets/image/login-logo.png",
+        "/assets/image/login-photo.png",
+        "/assets/image/pencil-edit-button.svg",
+        "/assets/image/search.svg",
+        "/assets/loading.svg",
+        "/assets/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/apartment.png": "c247e35e89dd3e2222c2e45104837d29f55499e1",
+    "/assets/building.jpg": "24d13f99bbb6bf4ecda569d1cc598706a5ea90ce",
+    "/assets/building.png": "4c0c8f6fd7fe16dfff8fec6b92e2defad9c041e4",
+    "/assets/favicon.ico": "543caa1817096aff0ebf34411b56ad43eacfb2b1",
+    "/assets/image/Bitmap.png": "9571ca1c591f6e87c3bcf3dc7c8554df2b15f4c0",
+    "/assets/image/Bitmap.svg": "b0829de5798f32b09b47ccdebc1e1f30932b33ad",
+    "/assets/image/add-plus-button.svg": "eec8aa5325c2007107029733392a51d994ec89f5",
+    "/assets/image/admin.png": "50d73c98e855a0e6356cbbd588bcf16e73b863f1",
+    "/assets/image/analysis.png": "131493731619059e8a505e5c9516f70f0d900b62",
+    "/assets/image/analysis.svg": "aedc28d7e6a8d235c3a031fce745b1d4a1c53856",
+    "/assets/image/apartment.png": "6b76f20f5f784041bf3c848614647226567496e4",
+    "/assets/image/apartment.svg": "b1b099fe692c2374977b89572b13fddf185782e9",
+    "/assets/image/apartment_logo-white.png": "9727f0f71ae083237ef2d1074f3e2df26ec69f94",
+    "/assets/image/apartment_logo.png": "7a14fda4ba8fa6c8763c54fe4bea970f1dfc01fe",
+    "/assets/image/building.jpg": "2176141f0741957cd1f60d0937a306f6fd76038c",
+    "/assets/image/building.png": "a7750845b59a297d0810b719a9ed2255b4699e2b",
+    "/assets/image/building1.png": "b50775aaa73c280b8bc89c0cde4388b4f2da5836",
+    "/assets/image/down-arrow-gray.svg": "eb7ff454dae9f917910841d04fb672779b498e52",
+    "/assets/image/down-arrow.svg": "9321edcc86e0e856fe1fbc4e102310db28569841",
+    "/assets/image/favicon-apartment-white-icon.png": "036c603b72ef88f536488b1b0e7e4b42160b4f71",
+    "/assets/image/favicon-icon.png": "b312d39f899b7c3a7276d9f791a4795a9acee952",
+    "/assets/image/filter.png": "25f69ffd6b4d99afcc950e33b8ad4cf035d69c22",
+    "/assets/image/icon.png": "1c017e407c980322da30daf76a690256093c8160",
+    "/assets/image/icon.svg": "04d5e8c4d399db7b21b90794b54f4c3704f9978d",
+    "/assets/image/img1.jpg": "3b5e651542581854c01eb33da79aea9efbfc9597",
+    "/assets/image/img2.jpg": "6e9810116f139669e55c9712fafc03c6db5a9425",
+    "/assets/image/img3.jpg": "3f84ecb030b3b67a213e52d9c022945539a883a9",
+    "/assets/image/login-logo.png": "4df0a81bf7bf6a373b659e5d212fe4a6c2411ba2",
+    "/assets/image/login-photo.png": "074a9759dccd45ed91a77af8f5c50e378f153826",
+    "/assets/image/pencil-edit-button.svg": "37f46a506097f89d0c2575d007327b976cdfba2b",
+    "/assets/image/search.svg": "220012f7585fca7880ff02b33a3716c6e1146ed3",
+    "/assets/loading.svg": "1db6b972b3806ca3e77c77f1aa4947f0e2c11ab6",
+    "/assets/logo.png": "7a14fda4ba8fa6c8763c54fe4bea970f1dfc01fe",
+    "/index.html": "00aceb3d860a91266a74b9ad9c82cc04a648f8db",
+    "/main-es2015.7b8548e7f6f3f15b4b36.js": "33a9efd37bf8a54dc60f10bee52b1fbf3848af62",
+    "/main-es5.7b8548e7f6f3f15b4b36.js": "4049e60ebc6cb365f2409d852476176a0d58e4f2",
+    "/polyfills-es2015.09c2ff5e82f81b9f620c.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
+    "/polyfills-es5.80b8a42bfc13245b0264.js": "21b4e0a1c932c3ce1587fc3aa7e21257206021b8",
+    "/runtime-es2015.b948044840398824f16e.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.b948044840398824f16e.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.d69164d01ea0441a70ff.css": "0cba98392f1176eaddb4ce35bf74475452afcd5d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

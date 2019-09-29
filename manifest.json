@@ -1,15 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "mappingApatments",
+  "short_name": "mappingApatments",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
+      "src": "assets/logo.png",
+      "sizes": "570×130",
       "type": "image/png"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
